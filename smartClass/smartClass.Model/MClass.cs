@@ -12,7 +12,7 @@ namespace smartClass.Model
         private string _name;
 
         public MClass()
-            : this(Name : string.Empty, ID : -1) { }
+            : this(string.Empty, -1) { }
         public MClass(string Name, int ID)
         {
             this.Name = Name;
