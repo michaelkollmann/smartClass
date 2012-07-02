@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using GalaSoft.MvvmLight;
 using smartClass.Model;
 
 namespace smartClass.ViewModel
 {
-    public class VMLesson : ViewModelBase
+    public class VMLesson : VMBase
     {
         //TODO: ObservableCollection<VMAppointment> einfügen
         private MLesson _lesson;
@@ -25,11 +24,11 @@ namespace smartClass.ViewModel
             {
                 if (_lesson != value)
                 {
-                    _lesson= value;
+                    _lesson = value;
                     RaisePropertyChanged("Lesson");
                 }
             }
-        }        
+        }
         public VMClass Class
         {
             get { return new VMClass(_lesson.Class); }

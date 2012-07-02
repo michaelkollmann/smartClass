@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using GalaSoft.MvvmLight;
 using smartClass.Model;
 
 namespace smartClass.ViewModel
 {
-    public class VMAppointment : ViewModelBase
+    public class VMAppointment : VMBase
     {
         private MAppointment _appointment;
 
@@ -84,6 +83,5 @@ namespace smartClass.ViewModel
                 }
             }
         }
-
     }
 }

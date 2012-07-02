@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-WIN8-RP3</Machine>
+    <WindowsUser>Michael</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>0F1D3E322418360C2211C6D511714FDDAA219DF215DE9C5BC6F6F61B6D37E85C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>486f9862-e501-4923-a190-f34959427c6c_1.0.0.0_neutral__eq9h3e6grdrp4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>486f9862-e501-4923-a190-f34959427c6c_eq9h3e6grdrp4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>486f9862-e501-4923-a190-f34959427c6c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Michael</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-02T22:46:55.588</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\smartClass.exe">
+      <PackagePath>smartClass.exe</PackagePath>
+      <Modified>2012-07-02T22:50:15.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\smartClass.pdb">
+      <PackagePath>smartClass.pdb</PackagePath>
+      <Modified>2012-07-02T22:50:15.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.ViewModel.pdb">
+      <PackagePath>smartClass.ViewModel.pdb</PackagePath>
+      <Modified>2012-07-02T22:50:15.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Release\smartClass.Model.pdb">
+      <PackagePath>smartClass.Model.pdb</PackagePath>
+      <Modified>2012-07-02T22:40:01.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.ViewModel.dll">
+      <PackagePath>smartClass.ViewModel.dll</PackagePath>
+      <Modified>2012-07-02T22:50:15.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\GalaSoft.MvvmLight.Extras.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.dll</PackagePath>
+      <Modified>2012-07-02T22:49:50.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\GalaSoft.MvvmLight.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Win8.dll</PackagePath>
+      <Modified>2012-07-02T22:49:50.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2012-07-02T22:49:50.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Release\smartClass.Model.dll">
+      <PackagePath>smartClass.Model.dll</PackagePath>
+      <Modified>2012-07-02T22:40:01.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-07-02T16:08:24.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T21:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-07-02T16:16:48.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-07-02T21:12:56.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-07-02T22:46:55.524</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

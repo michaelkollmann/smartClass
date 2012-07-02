@@ -1,0 +1,3 @@
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\smartClass.Model.csproj;neutral
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\smartClass.ViewModel.csproj;neutral
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\smartClass.csproj;neutral

@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using GalaSoft.MvvmLight;
 using smartClass.Model;
 
 namespace smartClass.ViewModel
 {
-    public class VMClass : ViewModelBase
+    public class VMClass : VMBase
     {
         private MClass _class;
 
