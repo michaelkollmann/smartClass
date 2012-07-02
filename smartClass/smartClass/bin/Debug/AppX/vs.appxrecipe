@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.exe">
       <PackagePath>smartClass.exe</PackagePath>
-      <Modified>2012-07-02T16:13:50.820</Modified>
+      <Modified>2012-07-02T16:22:01.306</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.pdb">
       <PackagePath>smartClass.pdb</PackagePath>
-      <Modified>2012-07-02T16:13:50.807</Modified>
+      <Modified>2012-07-02T16:22:01.293</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -58,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2012-07-02T16:13:49.370</Modified>
+      <Modified>2012-07-02T16:16:48.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>

@@ -102,6 +102,11 @@
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IBase.cs" />
+    <Compile Include="MAppointment.cs" />
+    <Compile Include="MClass.cs" />
+    <Compile Include="MLesson.cs" />
+    <Compile Include="MSchedule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">
