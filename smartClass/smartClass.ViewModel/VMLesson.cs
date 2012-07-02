@@ -18,6 +18,30 @@ namespace smartClass.ViewModel
             this.Lesson = Lesson;
         }
 
+        public MLesson Lesson
+        {
+            get { return _lesson; }
+            private set
+            {
+                if (_lesson != value)
+                {
+                    _lesson= value;
+                    RaisePropertyChanged("Lesson");
+                }
+            }
+        }        
+        public VMClass Class
+        {
+            get { return new VMClass(_lesson.Class); }
+            private set
+            {
+                if (_lesson.Class != value.Class)
+                {
+                    _lesson.Class = value.Class;
+                    RaisePropertyChanged("Class");
+                }
+            }
+        }
         public string Room
         {
             get { return _lesson.Room; }
@@ -66,29 +90,5 @@ namespace smartClass.ViewModel
                 }
             }
         }
-        public VMClass Class
-        {
-            get { return new VMClass(_lesson.Class); }
-            private set
-            {
-                if (_lesson.Class != value.Class)
-                {
-                    _lesson.Class = value.Class;
-                    RaisePropertyChanged("Class");
-                }
-            }
-        }
-        public MLesson Lesson
-        {
-            get { return _lesson; }
-            private set
-            {
-                if (_lesson != value)
-                {
-                    _lesson= value;
-                    RaisePropertyChanged("Lesson");
-                }
-            }
-        }        
     }
 }

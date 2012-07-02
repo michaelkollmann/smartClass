@@ -107,7 +107,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VMAppointment.cs" />
     <Compile Include="VMClass.cs" />
+    <Compile Include="VMKind.cs" />
     <Compile Include="VMLesson.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -116,6 +118,9 @@
     </Reference>
     <Reference Include="GalaSoft.MvvmLight.Win8">
       <HintPath>..\GalaSoft.MvvmLight.Win8.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\Microsoft.Practices.ServiceLocation.dll</HintPath>
     </Reference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">

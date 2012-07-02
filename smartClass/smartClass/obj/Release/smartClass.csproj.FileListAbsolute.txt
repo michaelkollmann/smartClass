@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\smartClass.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\App.g.i.cs
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\App.g.cs
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\Common\StandardStyles.g.cs
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\MainPage.g.i.cs
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\MainPage.g.cs
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\App.xaml
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\Common\StandardStyles.xaml
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\MainPage.xaml

@@ -1,0 +1,14 @@
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Release\smartClass.Model.dll
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Release\smartClass.Model.pdb
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Release\smartClass.Model.pri
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\smartClass.Model.dll
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\smartClass.Model.pdb
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\priconfig.xml
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\layout.resfiles
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\resources.resfiles
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\pri.resfiles
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\LanguageQualifiers.txt
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\priconfig.xml.intermediate
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\layout.resfiles.intermediate
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\resources.resfiles.intermediate
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Release\pri.resfiles.intermediate
