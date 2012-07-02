@@ -8,7 +8,7 @@ namespace smartClass.Model
 {
     public interface IBase
     {
-        public int ID
+        int ID
         {
             get;
             set;

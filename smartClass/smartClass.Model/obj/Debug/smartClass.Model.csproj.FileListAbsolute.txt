@@ -1,0 +1,10 @@
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Debug\smartClass.Model.dll
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Debug\smartClass.Model.pdb
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Debug\smartClass.Model.pri
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\smartClass.Model.dll
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\smartClass.Model.pdb
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\priconfig.xml
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\layout.resfiles
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\resources.resfiles
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\pri.resfiles
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\LanguageQualifiers.txt

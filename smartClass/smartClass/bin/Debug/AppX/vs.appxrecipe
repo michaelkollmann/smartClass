@@ -16,17 +16,33 @@
     <AppXManifest Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-07-02T16:08:39.827</Modified>
+      <Modified>2012-07-02T17:49:39.811</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.exe">
       <PackagePath>smartClass.exe</PackagePath>
-      <Modified>2012-07-02T16:22:01.306</Modified>
+      <Modified>2012-07-02T17:55:15.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.pdb">
       <PackagePath>smartClass.pdb</PackagePath>
-      <Modified>2012-07-02T16:22:01.293</Modified>
+      <Modified>2012-07-02T17:55:15.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Debug\smartClass.ViewModel.pdb">
+      <PackagePath>smartClass.ViewModel.pdb</PackagePath>
+      <Modified>2012-07-02T17:55:14.573</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Debug\smartClass.Model.pdb">
+      <PackagePath>smartClass.Model.pdb</PackagePath>
+      <Modified>2012-07-02T17:53:07.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Debug\smartClass.ViewModel.dll">
+      <PackagePath>smartClass.ViewModel.dll</PackagePath>
+      <Modified>2012-07-02T17:55:14.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Debug\smartClass.Model.dll">
+      <PackagePath>smartClass.Model.dll</PackagePath>
+      <Modified>2012-07-02T17:53:07.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -66,7 +82,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-07-02T16:08:39.749</Modified>
+      <Modified>2012-07-02T17:49:39.746</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

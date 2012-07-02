@@ -1,0 +1,14 @@
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Debug\smartClass.ViewModel.dll
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Debug\smartClass.ViewModel.pdb
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Debug\smartClass.ViewModel.pri
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Debug\smartClass.Model.dll
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Debug\smartClass.Model.pdb
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Debug\smartClass.Model.pri
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Debug\smartClass.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Debug\smartClass.ViewModel.dll
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Debug\smartClass.ViewModel.pdb
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Debug\priconfig.xml
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Debug\layout.resfiles
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Debug\resources.resfiles
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Debug\pri.resfiles
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Debug\LanguageQualifiers.txt
