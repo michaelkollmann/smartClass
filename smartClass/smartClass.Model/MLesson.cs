@@ -8,8 +8,8 @@ namespace smartClass.Model
 {
     public class MLesson : IBase
     {
-        private int _id;
         private MClass _class;
+        private int _id;
         private DayOfWeek _day;
         private TimeSpan _from;
         private TimeSpan _to;

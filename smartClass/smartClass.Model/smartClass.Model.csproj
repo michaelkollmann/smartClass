@@ -105,6 +105,7 @@
     <Compile Include="IBase.cs" />
     <Compile Include="MAppointment.cs" />
     <Compile Include="MClass.cs" />
+    <Compile Include="MKind.cs" />
     <Compile Include="MLesson.cs" />
     <Compile Include="MSchedule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
