@@ -8,3 +8,7 @@ C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Deb
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\resources.resfiles
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\pri.resfiles
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\LanguageQualifiers.txt
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\priconfig.xml.intermediate
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\layout.resfiles.intermediate
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\resources.resfiles.intermediate
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\obj\Debug\pri.resfiles.intermediate

@@ -22,11 +22,8 @@ C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\pri
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\LanguageQualifiers.txt
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\ProjectArchitectures.txt
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.ViewModel.dll
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.Model.dll
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.ViewModel.pdb
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.ViewModel.pri
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.Model.pdb
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.Model.pri
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\smartClass.csprojResolveAssemblyReference.cache
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\smartClass.csproj.GenerateResource.Cache
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\priconfig.xml.intermediate

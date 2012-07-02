@@ -29,7 +29,7 @@ namespace smartClass
         {
             this.InitializeComponent();
             this.Suspending += OnSuspending;
-            ModelTestClass test = new ModelTestClass();
+            //ModelTestClass test = new ModelTestClass();
         }
 
         /// <summary>

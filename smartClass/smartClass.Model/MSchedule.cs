@@ -8,7 +8,7 @@ using Windows.UI;
 
 namespace smartClass.Model
 {
-    public class MSchedule : IList<MLesson>, IList<MAppointment>
+    public class MSchedule
     {
         private string _name;
         private Color _color;
