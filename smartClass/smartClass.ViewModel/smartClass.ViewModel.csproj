@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>57881541-2d14-407b-a971-63688d72ff7d</ProjectGuid>
+    <ProjectGuid>{C5D5E08A-EED1-4781-B807-0399743A1321}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>smartClass.ViewModel</RootNamespace>
@@ -102,7 +102,6 @@
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">
@@ -116,5 +115,4 @@
   <Target Name="AfterBuild">
   </Target>
   -->
-
 </Project>
