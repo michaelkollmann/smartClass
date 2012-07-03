@@ -10,10 +10,16 @@ namespace smartClass.ViewModel
     public class VMSchedule : VMBase
     {
         private MSchedule _schedule;
+        private ListToModel _appointments;
 
+        public VMSchedule()
+            : this(new MSchedule()) { }
         public VMSchedule(MSchedule Schedule)
         {
             this.Schedule = Schedule;
+            _appointments = new ListToModel(Schedule.Appointments, typeof(VMAppointment), Schedule);
+            _appointments.Add(new VMAppointment(new MAppointment(), Schedule));
+            _appointments.Remove(_appointments[2]);
         }
 
         public MSchedule Schedule

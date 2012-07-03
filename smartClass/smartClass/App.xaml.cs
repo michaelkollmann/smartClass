@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using smartClass.ViewModel;
 using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
@@ -28,7 +29,7 @@ namespace smartClass
         {
             this.InitializeComponent();
             this.Suspending += OnSuspending;
-            //ModelTestClass test = new ModelTestClass();
+            VMSchedule schedule = new VMSchedule();
         }
 
         /// <summary>

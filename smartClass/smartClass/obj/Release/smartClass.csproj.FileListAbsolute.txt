@@ -29,7 +29,3 @@ C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\P
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\smartClass.Model.dll
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\smartClass.Model.pdb
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\smartClass.Model.pri
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\priconfig.xml.intermediate
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\layout.resfiles.intermediate
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\resources.resfiles.intermediate
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Release\pri.resfiles.intermediate

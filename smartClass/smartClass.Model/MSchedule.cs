@@ -16,7 +16,7 @@ namespace smartClass.Model
         private List<MAppointment> _appointments;
 
         public MSchedule()
-            : this(new List<MLesson>(), new List<MAppointment>(), new Color(), string.Empty) { }
+            : this(new List<MLesson>(), new List<MAppointment>(), new Color(), string.Empty) { Appointments.Add(new MAppointment()); Appointments.Add(new MAppointment()); }
         public MSchedule(List<MLesson> Lessons, List<MAppointment> Appointments, Color Color, string Name)
         {
             this.Lessons = Lessons;

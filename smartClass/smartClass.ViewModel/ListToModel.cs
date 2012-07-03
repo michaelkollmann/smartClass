@@ -15,13 +15,13 @@ namespace smartClass.ViewModel
         private IList<IVMBase> _list;
         private IList<IMBase> _baselist;
 
-        public ListToModel(IList<IMBase> Baselist)
+        public ListToModel(IEnumerable<IMBase> Baselist, Type T, MSchedule Schedule)
         {
-            this._baselist = Baselist;
+            this._baselist = new List<IMBase>(Baselist);
             this._list = new List<IVMBase>();
             foreach (IMBase item in _baselist)
             {
-
+                _list.Add((IVMBase)Activator.CreateInstance(T, item, Schedule));
             }
         }
 
@@ -76,7 +76,7 @@ namespace smartClass.ViewModel
             {
                 NotifyCollectionChangedAction action = _list[index] == null ? NotifyCollectionChangedAction.Add : NotifyCollectionChangedAction.Replace;
                 _list[index] = value;
-                RaiseCollectionChanged(new NotifyCollectionChangedEventArgs(action, 
+                //RaiseCollectionChanged(new NotifyCollectionChangedEventArgs(action, 
                 _baselist[index] = value.Model;
             }
         }
