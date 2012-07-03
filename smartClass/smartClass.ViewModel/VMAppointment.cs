@@ -7,43 +7,44 @@ using smartClass.Model;
 
 namespace smartClass.ViewModel
 {
-    public class VMAppointment : VMBase
+    public class VMAppointment : VMBase, IVMBase
     {
         private MAppointment _appointment;
+        private MSchedule _schedule;
 
-        public MAppointment Appointment
+        public VMAppointment(MAppointment Appointment, MSchedule Schedule)
         {
-            get { return _appointment; }
+            this.Model = Appointment;
+            _schedule = Schedule;
+        }
+
+        public IMBase Model
+        {
+            get
+            {
+                return _appointment;
+            }
             private set
             {
-                if (_appointment != value)
+                if (value.GetType().Equals(typeof(MAppointment)))
                 {
-                    _appointment = value;
-                    RaisePropertyChanged("Appointment");
+                    if (_appointment != value)
+                    {
+                        _appointment = value as MAppointment;
+                        RaisePropertyChanged("Model");
+                    }
                 }
             }
         }
         public VMLesson Lesson
         {
-            get { return new VMLesson(_appointment.Lesson); }
+            get { return new VMLesson(_appointment.Lesson, _schedule); }
             private set
             {
-                if (_appointment.Lesson != value.Lesson)
+                if (_appointment.Lesson != value.Model)
                 {
-                    _appointment.Lesson = value.Lesson;
+                    _appointment.Lesson = value.Model as MLesson;
                     RaisePropertyChanged("Lesson");
-                }
-            }
-        }
-        public VMKind Kind
-        {
-            get { return new VMKind(_appointment.Kind); }
-            private set
-            {
-                if (_appointment.Kind != value.Kind)
-                {
-                    _appointment.Kind = value.Kind;
-                    RaisePropertyChanged("Kind");
                 }
             }
         }
@@ -83,5 +84,15 @@ namespace smartClass.ViewModel
                 }
             }
         }
+        public VMKind Kind
+        {
+            get { return new VMKind(_appointment.Kind); }
+            private set
+            {
+                _appointment.Kind = value.Model as MKind;
+                RaisePropertyChanged("Kind");
+            }
+        }
+
     }
 }

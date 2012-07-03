@@ -16,6 +16,3 @@ C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\resources.resfiles
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\pri.resfiles
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\LanguageQualifiers.txt
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\GalaSoft.MvvmLight.Extras.Win8.dll
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\GalaSoft.MvvmLight.Win8.dll
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\Microsoft.Practices.ServiceLocation.dll

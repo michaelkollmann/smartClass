@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -7,37 +8,32 @@ using smartClass.Model;
 
 namespace smartClass.ViewModel
 {
-    public class VMLesson : VMBase
+    public class VMLesson : VMBase, IVMBase
     {
-        //TODO: ObservableCollection<VMAppointment> einfügen
         private MLesson _lesson;
+        private MSchedule _schedule;
 
-        public VMLesson(MLesson Lesson)
+        public VMLesson(MLesson Lesson, MSchedule Schedule)
         {
-            this.Lesson = Lesson;
+            this.Model = Lesson;
+            _schedule = Schedule;
         }
 
-        public MLesson Lesson
+        public IMBase Model
         {
-            get { return _lesson; }
-            private set
+            get
             {
-                if (_lesson != value)
-                {
-                    _lesson = value;
-                    RaisePropertyChanged("Lesson");
-                }
+                return _lesson;
             }
-        }
-        public VMClass Class
-        {
-            get { return new VMClass(_lesson.Class); }
             private set
             {
-                if (_lesson.Class != value.Class)
+                if (value.GetType().Equals(typeof(MLesson)))
                 {
-                    _lesson.Class = value.Class;
-                    RaisePropertyChanged("Class");
+                    if (_lesson != value)
+                    {
+                        _lesson = value as MLesson;
+                        RaisePropertyChanged("Model");
+                    }
                 }
             }
         }

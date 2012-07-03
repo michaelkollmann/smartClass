@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace smartClass.Model
 {
-    public class MClass : IBase
+    public class MClass : IMBase
     {
         private int _id;
         private string _name;

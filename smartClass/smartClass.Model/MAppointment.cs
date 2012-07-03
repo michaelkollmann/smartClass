@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace smartClass.Model
 {
-    public class MAppointment : IBase
+    public class MAppointment : IMBase
     {
         private MLesson _lesson;
         private MKind _kind;
@@ -28,15 +28,15 @@ namespace smartClass.Model
         }
 
         #region Properties
-        public MLesson Lesson
-        {
-            get { return _lesson; }
-            set { _lesson = value; }
-        }
         public MKind Kind
         {
             get { return _kind; }
             set { _kind = value; }
+        }
+        public MLesson Lesson
+        {
+            get { return _lesson; }
+            set { _lesson = value; }
         }
         public DateTime Date
         {
@@ -55,15 +55,10 @@ namespace smartClass.Model
         }
         public int ID
         {
-            get
-            {
-                return _id;
-            }
-            set
-            {
-                _id = value;
-            }
+            get { return _id; }
+            set { _id = value; }
         }
         #endregion
+
     }
 }

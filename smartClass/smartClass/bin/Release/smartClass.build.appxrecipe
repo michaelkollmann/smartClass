@@ -28,16 +28,7 @@
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.ViewModel.dll">
       <PackagePath>smartClass.ViewModel.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\GalaSoft.MvvmLight.Extras.Win8.dll">
-      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\GalaSoft.MvvmLight.Win8.dll">
-      <PackagePath>GalaSoft.MvvmLight.Win8.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\Microsoft.Practices.ServiceLocation.dll">
-      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Release\smartClass.Model.dll">
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.Model.dll">
       <PackagePath>smartClass.Model.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\Assets\Logo.png">

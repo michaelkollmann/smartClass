@@ -7,24 +7,32 @@ using smartClass.Model;
 
 namespace smartClass.ViewModel
 {
-    public class VMClass : VMBase
+    public class VMClass : VMBase, IVMBase
     {
         private MClass _class;
+        private MSchedule _schedule;
 
-        public VMClass(MClass Class)
+        public VMClass(MClass Class, MSchedule Schedule)
         {
-            this.Class = Class;
+            this.Model = Class;
+            _schedule = Schedule;
         }
 
-        public MClass Class
+        public IMBase Model
         {
-            get { return _class; }
+            get
+            {
+                return _class;
+            }
             private set
             {
-                if (_class != value)
+                if (value.GetType().Equals(typeof(MLesson)))
                 {
-                    _class = value;
-                    RaisePropertyChanged("Class");
+                    if (_class != value)
+                    {
+                        _class = value as MClass;
+                        RaisePropertyChanged("Model");
+                    }
                 }
             }
         }

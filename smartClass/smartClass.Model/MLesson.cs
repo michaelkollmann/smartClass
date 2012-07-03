@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace smartClass.Model
 {
-    public class MLesson : IBase
+    public class MLesson : IMBase
     {
         private MClass _class;
         private int _id;
@@ -28,6 +28,11 @@ namespace smartClass.Model
         }
 
         #region Properties
+        public MClass Class
+        {
+            get { return _class; }
+            set { _class = value; }
+        }
         public DayOfWeek Day
         {
             get { return _day; }
@@ -48,22 +53,12 @@ namespace smartClass.Model
             get { return _room; }
             set { _room = value; }
         }
-        public MClass Class
-        {
-            get { return _class; }
-            set { _class = value; }
-        }
         public int ID
         {
-            get
-            {
-                return _id;
-            }
-            set
-            {
-                _id = value;
-            }
+            get { return _id; }
+            set { _id = value; }
         }
         #endregion
+
     }
 }

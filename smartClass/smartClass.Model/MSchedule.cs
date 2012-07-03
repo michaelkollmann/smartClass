@@ -26,6 +26,16 @@ namespace smartClass.Model
         }
 
         #region Properties
+        public List<MLesson> Lessons
+        {
+            get { return _lessons; }
+            set { _lessons = value; }
+        }
+        public List<MAppointment> Appointments
+        {
+            get { return _appointments; }
+            set { _appointments = value; }
+        }
         public string Name
         {
             get { return _name; }
@@ -35,16 +45,6 @@ namespace smartClass.Model
         {
             get { return _color; }
             set { _color = value; }
-        }
-        public List<MAppointment> Appointments
-        {
-            get { return _appointments; }
-            set { _appointments = value; }
-        }
-        public List<MLesson> Lessons
-        {
-            get { return _lessons; }
-            set { _lessons = value; }
         }
         #endregion
     }

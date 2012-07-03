@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace smartClass.Model
 {
-    public interface IBase
+    public interface IMBase
     {
         int ID
         {
