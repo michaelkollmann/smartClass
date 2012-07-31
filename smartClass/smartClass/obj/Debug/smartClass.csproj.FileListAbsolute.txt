@@ -26,7 +26,6 @@ C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\sma
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.ViewModel.pri
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\smartClass.csprojResolveAssemblyReference.cache
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\smartClass.csproj.GenerateResource.Cache
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\priconfig.xml.intermediate
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\layout.resfiles.intermediate
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\resources.resfiles.intermediate
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\obj\Debug\pri.resfiles.intermediate
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.Model.dll
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.Model.pdb
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Debug\smartClass.Model.pri

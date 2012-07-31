@@ -1,0 +1,6 @@
+C:\Users\Michael\Documents\GitHub\smartClass\asynctest\asynctest\bin\Debug\asynctest.exe.config
+C:\Users\Michael\Documents\GitHub\smartClass\asynctest\asynctest\bin\Debug\asynctest.exe
+C:\Users\Michael\Documents\GitHub\smartClass\asynctest\asynctest\bin\Debug\asynctest.pdb
+C:\Users\Michael\Documents\GitHub\smartClass\asynctest\asynctest\obj\Debug\asynctest.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\smartClass\asynctest\asynctest\obj\Debug\asynctest.exe
+C:\Users\Michael\Documents\GitHub\smartClass\asynctest\asynctest\obj\Debug\asynctest.pdb

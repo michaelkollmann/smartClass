@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace smartClass.Model
 {
-    public class MKind : IMBase
+    public class MKind : MBase
     {
-        private int _id;
         private string _name;
 
         public MKind()
@@ -24,11 +23,6 @@ namespace smartClass.Model
         {
             get { return _name; }
             set { _name = value; }
-        }
-        public int ID
-        {
-            get { return _id; }
-            set { _id = value; }
         }
         #endregion
     }

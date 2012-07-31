@@ -16,33 +16,33 @@
     <AppXManifest Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-07-03T23:19:48.723</Modified>
+      <Modified>2012-07-19T17:56:52.649</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\smartClass.exe">
       <PackagePath>smartClass.exe</PackagePath>
-      <Modified>2012-07-03T23:24:50.836</Modified>
+      <Modified>2012-07-19T19:18:03.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\smartClass.pdb">
       <PackagePath>smartClass.pdb</PackagePath>
-      <Modified>2012-07-03T23:24:50.820</Modified>
+      <Modified>2012-07-19T19:18:03.756</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.ViewModel.pdb">
       <PackagePath>smartClass.ViewModel.pdb</PackagePath>
-      <Modified>2012-07-03T23:24:50.195</Modified>
+      <Modified>2012-07-19T19:18:02.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\bin\Release\smartClass.Model.pdb">
       <PackagePath>smartClass.Model.pdb</PackagePath>
-      <Modified>2012-07-03T23:21:36.016</Modified>
+      <Modified>2012-07-19T17:56:51.634</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.ViewModel.dll">
       <PackagePath>smartClass.ViewModel.dll</PackagePath>
-      <Modified>2012-07-03T23:24:50.211</Modified>
+      <Modified>2012-07-19T19:18:02.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.Model.dll">
       <PackagePath>smartClass.Model.dll</PackagePath>
-      <Modified>2012-07-03T23:21:36.031</Modified>
+      <Modified>2012-07-19T17:56:51.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -74,7 +74,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2012-07-02T16:16:48.145</Modified>
+      <Modified>2012-07-19T16:24:18.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\App.xaml">
       <PackagePath>App.xaml</PackagePath>
@@ -82,7 +82,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-07-03T23:19:48.660</Modified>
+      <Modified>2012-07-19T17:56:52.609</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

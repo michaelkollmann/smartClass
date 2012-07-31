@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace smartClass.Model
 {
-    public class MAppointment : IMBase
+    public class MAppointment : MBase
     {
         private MLesson _lesson;
         private MKind _kind;
-        private int _id;
         private DateTime _date;
         private string _note;
         private bool _isdone;
@@ -52,11 +51,6 @@ namespace smartClass.Model
         {
             get { return _isdone; }
             set { _isdone = value; }
-        }
-        public int ID
-        {
-            get { return _id; }
-            set { _id = value; }
         }
         #endregion
 

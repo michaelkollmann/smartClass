@@ -35,7 +35,7 @@
                     <ColumnDefinition Width="30" />
                     <ColumnDefinition Width="auto" />
                 </Grid.ColumnDefinitions>
-                <TextBlock x:Name="scheduleTitle" Grid.Column="0" Text="bfs2010fi" Style="{StaticResource PageHeaderTextStyle}"/>
+                <TextBlock x:Name="linkSchedule" Grid.Column="0" Text="Schedule" Style="{StaticResource PageHeaderTextStyle}"/>
                 <TextBlock x:Name="linkDates" Grid.Column="2" Text="Appointments" Style="{StaticResource PageHeaderTextStyle}" />
             </Grid>
         </Grid>

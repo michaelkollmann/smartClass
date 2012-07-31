@@ -8,18 +8,16 @@ using smartClass.Model;
 
 namespace smartClass.ViewModel
 {
-    public class VMLesson : VMBase, IVMBase
+    public class VMLesson : VMBase
     {
         private MLesson _lesson;
-        private MSchedule _schedule;
 
-        public VMLesson(MLesson Lesson, MSchedule Schedule)
+        public VMLesson(MLesson Lesson)
         {
             this.Model = Lesson;
-            _schedule = Schedule;
         }
 
-        public IMBase Model
+        public MLesson Model
         {
             get
             {
@@ -27,13 +25,10 @@ namespace smartClass.ViewModel
             }
             private set
             {
-                if (value.GetType().Equals(typeof(MLesson)))
+                if (_lesson != value)
                 {
-                    if (_lesson != value)
-                    {
-                        _lesson = value as MLesson;
-                        RaisePropertyChanged("Model");
-                    }
+                    _lesson = value as MLesson;
+                    RaisePropertyChanged("Model");
                 }
             }
         }

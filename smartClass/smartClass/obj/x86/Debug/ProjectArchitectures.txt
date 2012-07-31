@@ -1,0 +1,4 @@
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.Model\smartClass.Model.csproj;x86
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\smartClass.ViewModel.csproj;x86
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass\smartClass.csproj;x86
+C:\Users\Michael\Documents\GitHub\smartClass\smartClass\SQLite3\SQLite3.vcxproj;x86

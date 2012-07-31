@@ -1,14 +1,1 @@
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.ViewModel.dll
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.ViewModel.pdb
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.ViewModel.pri
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.Model.dll
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.Model.pdb
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\bin\Release\smartClass.Model.pri
 C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\smartClass.ViewModel.csprojResolveAssemblyReference.cache
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\smartClass.ViewModel.dll
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\smartClass.ViewModel.pdb
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\priconfig.xml
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\layout.resfiles
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\resources.resfiles
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\pri.resfiles
-C:\Users\Michael\Documents\GitHub\smartClass\smartClass\smartClass.ViewModel\obj\Release\LanguageQualifiers.txt

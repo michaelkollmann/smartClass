@@ -18,5 +18,10 @@ namespace smartClass.ViewModel
                 PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
             }
         }
+
+        public VMBase()
+        {
+
+        }
     }
 }

@@ -7,18 +7,16 @@ using smartClass.Model;
 
 namespace smartClass.ViewModel
 {
-    public class VMAppointment : VMBase, IVMBase
+    public class VMAppointment : VMBase
     {
         private MAppointment _appointment;
-        private MSchedule _schedule;
 
-        public VMAppointment(MAppointment Appointment, MSchedule Schedule)
+        public VMAppointment(MAppointment Appointment)
         {
             this.Model = Appointment;
-            _schedule = Schedule;
         }
 
-        public IMBase Model
+        public MAppointment Model
         {
             get
             {
@@ -26,19 +24,16 @@ namespace smartClass.ViewModel
             }
             private set
             {
-                if (value.GetType().Equals(typeof(MAppointment)))
-                {
                     if (_appointment != value)
                     {
                         _appointment = value as MAppointment;
                         RaisePropertyChanged("Model");
                     }
-                }
             }
         }
         public VMLesson Lesson
         {
-            get { return new VMLesson(_appointment.Lesson, _schedule); }
+            get { return new VMLesson(_appointment.Lesson); }
             private set
             {
                 if (_appointment.Lesson != value.Model)
@@ -93,6 +88,5 @@ namespace smartClass.ViewModel
                 RaisePropertyChanged("Kind");
             }
         }
-
     }
 }

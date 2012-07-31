@@ -103,12 +103,11 @@
     <None Include="Model.cd" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IMBase.cs" />
     <Compile Include="MAppointment.cs" />
+    <Compile Include="MBase.cs" />
     <Compile Include="MClass.cs" />
     <Compile Include="MKind.cs" />
     <Compile Include="MLesson.cs" />
-    <Compile Include="MSchedule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">

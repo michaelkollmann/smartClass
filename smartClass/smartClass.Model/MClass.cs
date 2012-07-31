@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace smartClass.Model
 {
-    public class MClass : IMBase
+    public class MClass : MBase
     {
-        private int _id;
         private string _name;
 
         public MClass()
-            : this(string.Empty, -1) { }
-        public MClass(string Name, int ID)
+            : this(-1, string.Empty) { }
+        public MClass(int ID, string Name)
         {
             this.Name = Name;
             this.ID = ID;
@@ -24,17 +23,6 @@ namespace smartClass.Model
         {
             get { return _name; }
             set { _name = value; }
-        }
-        public int ID
-        {
-            get
-            {
-                return _id;
-            }
-            set
-            {
-                _id = value;
-            }
         }
         #endregion
     }

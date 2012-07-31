@@ -7,7 +7,7 @@ using smartClass.Model;
 
 namespace smartClass.ViewModel
 {
-    public class VMKind : VMBase, IVMBase
+    public class VMKind : VMBase
     {
         private MKind _kind;
 
@@ -16,7 +16,7 @@ namespace smartClass.ViewModel
             this.Model = Kind;
         }
 
-        public IMBase Model
+        public MKind Model
         {
             get
             {
@@ -24,13 +24,10 @@ namespace smartClass.ViewModel
             }
             private set
             {
-                if (value.GetType().Equals(typeof(MKind)))
+                if (_kind != value)
                 {
-                    if (_kind != value)
-                    {
-                        _kind = value as MKind;
-                        RaisePropertyChanged("Model");
-                    }
+                    _kind = value as MKind;
+                    RaisePropertyChanged("Model");
                 }
             }
         }

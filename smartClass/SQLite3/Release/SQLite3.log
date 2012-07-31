@@ -1,0 +1,24 @@
+﻿Build started 20.07.2012 13:47:46.
+     1>Project "C:\Users\Michael\Documents\GitHub\smartClass\smartClass\SQLite3\SQLite3.vcxproj" on node 3 (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Users\Michael\Documents\GitHub\smartClass\smartClass\SQLite3\ /IRelease\ /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /O2 /Oi /Oy- /GL /D SQLITE_OS_WINRT /D SQLITE_ENABLE_UNLOCK_NOTIFY /D SQLITE_TEMP_STORE=2 /D _WINRT_DLL /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt Common.cpp Constants.cpp Database.cpp Statement.cpp
+         Common.cpp
+         Constants.cpp
+         Database.cpp
+         Statement.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Users\Michael\Documents\GitHub\smartClass\smartClass\SQLite3\ /IRelease\ /Zi /nologo /W3 /WX- /sdl /MP /O2 /Oi /Oy- /GL /D SQLITE_OS_WINRT /D SQLITE_ENABLE_UNLOCK_NOTIFY /D SQLITE_TEMP_STORE=2 /D _WINRT_DLL /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt sqlite3.c
+         sqlite3.c
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Michael\Documents\GitHub\smartClass\smartClass\Release\SQLite3\SQLite3.dll" /NOLOGO runtimeobject.lib kernel32.lib user32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Michael\Documents\GitHub\smartClass\smartClass\Release\SQLite3\SQLite3.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /APPCONTAINER /WINMD /WINMDFILE:"C:\Users\Michael\Documents\GitHub\smartClass\smartClass\Release\SQLite3\SQLite3.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH /DLL Release\Common.obj
+         Release\Constants.obj
+         Release\Database.obj
+         Release\sqlite3.obj
+         Release\Statement.obj
+            Creating library C:\Users\Michael\Documents\GitHub\smartClass\smartClass\Release\SQLite3\SQLite3.lib and object C:\Users\Michael\Documents\GitHub\smartClass\smartClass\Release\SQLite3\SQLite3.exp
+         Generating code
+         Finished generating code
+         SQLite3.vcxproj -> C:\Users\Michael\Documents\GitHub\smartClass\smartClass\Release\SQLite3\SQLite3.dll
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\MakePri.exe New -ProjectRoot C:\Users\Michael\Documents\GitHub\smartClass\smartClass\SQLite3\ -ConfigXml Release\priconfig.xml -OutputFile C:\Users\Michael\Documents\GitHub\smartClass\smartClass\Release\SQLite3\SQLite3.pri -IndexName SQLite3 -Verbose -Overwrite  
+     1>Done Building Project "C:\Users\Michael\Documents\GitHub\smartClass\smartClass\SQLite3\SQLite3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.30
